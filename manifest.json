@@ -3,7 +3,7 @@
 	"version": "0.5.1",
 	"description": "Mixed of Atom 'One dark' and Sublime 'Monokai' themes for chrome devtools'",
 	"devtools_page": "devtools.html",
-	"homepage_url": "https://github.com/justmonk",
+	"homepage_url": "https://github.com/JustMonk/chrome-one-monokai",
 	"manifest_version": 2,
 	"icons": {
 		"16": "images/icon16.png",
